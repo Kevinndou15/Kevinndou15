@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Ndou</h1>
+<h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A self taught Android and iOS mobile app developer</h3>
 
 <h3 align="left">Connect with me:</h3>
